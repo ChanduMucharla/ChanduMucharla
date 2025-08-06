@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChanduMucharla
-- 👀 I’m interested in web development and data science fields
-- 🌱 I’m currently learning total basic process of developing web 
-<!---
-ChanduMucharla/ChanduMucharla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ChanduMucharla  
+- 🎓 I’m a Computer Science graduate passionate about technology and innovation  
+- 💻 Skilled in **Web Development**, **Android Development (Java)**, and **Python**  
+- 📊 Interested in **Full-Stack Development** and **Data Science**  
+- 🌱 Currently expanding my knowledge in modern web technologies and real-world project building  
+- 🚀 Always eager to explore new tools and enhance my problem-solving abilities  
+- 📫 Reach me at: chandumucharla09@gmail.com
