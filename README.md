@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChanduMucharla  
 - 🎓 I’m a Computer Science graduate passionate about technology and innovation  
-- 💻 Skilled in **Web Development**, **Android Development (Java)**, and **Python**  
+- 💻 Skilled in **Web Development**, **Android Development**, and **Python**  
 - 📊 Interested in **Full-Stack Development** and **Data Science**  
 - 🌱 Currently expanding my knowledge in modern web technologies and real-world project building  
 - 🚀 Always eager to explore new tools and enhance my problem-solving abilities  
